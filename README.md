@@ -8,7 +8,8 @@ Here is a demo of the prediction: <YT unlisted vid link>
 [prediction_04Nov24.png ](https://github.com/GovindaMadhava/F1-EngineAudio-Simulator/blob/8d5e60ae0ce60ee27b2762846d8a6cba6b953502/prediction_04Nov24.png) 
 
 Stage-II (in progress)
-The most detailed F1 Engine Audio Simulator Web Interface available for free on the internet today, with audio for each of the 10 F1 2024 Engines:
+Real-time F1 Engine Audio Simulator for each of the 10 F1 2024 Engines.
+This would be the most detailed Audio Simulator available as of today for the following user actions in real-time via web interface:
 
 -Engine Ignition ON
 -Engine IDLE
@@ -18,4 +19,4 @@ The most detailed F1 Engine Audio Simulator Web Interface available for free on 
 -PIT Limiter
 -Engine OFF
 
-Skills: Generative AI Audio, Audio Signal Processing, Machine Learning, Audio Information Retrieval, Pattern Recognition, Dataset creation
+Skills: Generative AI Audio, Audio Signal Processing, Neural Networks for Audio generation, Audio Information Retrieval, Real-time Audio Processing, Dataset Creation
