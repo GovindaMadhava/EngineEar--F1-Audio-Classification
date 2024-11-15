@@ -7,6 +7,7 @@ Developed an algorithm capable of analyzing Formula 1 engine audio inputs (.wav 
 Here is a demo of the prediction: https://www.youtube.com/playlist?list=PLiK7pWxcARgYFQ7vz39x6qGJntNXrZyN7
 
 Stage-II: Neural-Network based Formula 1 Engine Simulator (in progress)
+
 Generative Audio based Real-time Simulator for each of the 10 Formula 1 2024 Engines.
 This would be the most detailed Audio Simulator available as of today for the following user actions in real-time via web interface:
 
