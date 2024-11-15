@@ -1,4 +1,4 @@
-# F1-EngineAudio-Simulator
+# Formula1-EngineAudio-Simulator
 Developed the first comprehensive audio dataset featuring high-quality onboard audio for the entire 2024 Formula 1 season. With 20+ tracks, it includes lap-wise audio for all 20 drivers across all 10 teams, totaling ~400GB. This dataset, complete with metadata, serves as a valuable resource for Audio Information Retrieval research in F1 engine analysis.
 Link to Kaggle dataset: https://www.kaggle.com/datasets/govindamadhava/formula1-f1-pure-engine-audio-dataset-2012-2024 
 
