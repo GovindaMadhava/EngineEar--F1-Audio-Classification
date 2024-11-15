@@ -2,6 +2,13 @@
 Developed the first comprehensive audio dataset featuring high-quality onboard audio for the entire 2024 Formula 1 season. With 20+ tracks, it includes lap-wise audio for all 20 drivers across all 10 teams, totaling ~400GB. This dataset, complete with metadata, serves as a valuable resource for Audio Information Retrieval research in F1 engine analysis.
 Link to Kaggle dataset: https://www.kaggle.com/datasets/govindamadhava/formula1-f1-pure-engine-audio-dataset-2012-2024 
 
+Dataset Stats:
+25 Tracks
+20 Drivers
+10 Teams
+~30,000 Laps
+~500 GBs of high quality wav data
+
 Stage-I:
 Developed an algorithm capable of analyzing Formula 1 engine audio inputs (.wav files) to predict the driver, classify the team / engine and identify the track from where the input audio has been taken — all based solely on the audio snippet!!
 
