@@ -4,19 +4,24 @@ Link to Kaggle dataset: https://www.kaggle.com/datasets/govindamadhava/formula1-
 
 Stage-I
 Developed an algorithm capable of analyzing F1 engine audio inputs (.wav files) to predict the driver, classify the team / engine and identify the track from where the input audio has been taken — all based solely on the audio snippet!!
-Here is a demo of the prediction: <YT unlisted vid link>
-[prediction_04Nov24.png ](https://github.com/GovindaMadhava/F1-EngineAudio-Simulator/blob/8d5e60ae0ce60ee27b2762846d8a6cba6b953502/prediction_04Nov24.png) 
+Here is a demo of the prediction: https://www.youtube.com/playlist?list=PLiK7pWxcARgYFQ7vz39x6qGJntNXrZyN7
 
 Stage-II (in progress)
 Real-time F1 Engine Audio Simulator for each of the 10 F1 2024 Engines.
 This would be the most detailed Audio Simulator available as of today for the following user actions in real-time via web interface:
 
 -Engine Ignition ON
+
 -Engine IDLE
+
 -Engine Burnout and Warm-Up
+
 -Launch control
+
 -Up-shift and Down-shift along with throttle input
+
 -PIT Limiter
+
 -Engine OFF
 
 Skills: Generative AI Audio, Audio Signal Processing, Neural Networks for Audio generation, Audio Information Retrieval, Real-time Audio Processing, Dataset Creation
