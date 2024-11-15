@@ -14,7 +14,7 @@ Here is a demo of the prediction: https://www.youtube.com/playlist?list=PLiK7pWx
 Stage-II: Neural-Network based Real-time Formula 1 Engine Simulator (in progress)
 
 Generative Audio based Real-time Simulator for each of the 10 Formula 1 2024 Engines.
-This would be the most detailed Audio Simulator that enables users experience the adrenaline of F1 engines through haptic feedback along with real-time generative Neural-networks audio. 
+This would be the most detailed Audio Simulator that enables users experience the adrenaline of F1 engines through haptic feedback along with real-time generative Neural-networks audio, for an immerive experience. 
 
 -Engine Ignition ON | Engine IDLE | Engine Burnout and Warm-Up | Launch control | Up-shift and Down-shift along with throttle input | PIT Limiter | Engine OFF
 
