@@ -1,8 +1,16 @@
 # Formula1-EngineAudio-Simulator
 Developed the first comprehensive audio dataset featuring high-quality onboard audio for the entire 2024 Formula 1 season.
 Dataset Stats:
+
 25 Tracks | 20 Drivers | 10 Teams | ~25,000 Laps | ~500 GBs of high quality wav data
+
 Link to Kaggle dataset: https://www.kaggle.com/datasets/govindamadhava/formula1-f1-pure-engine-audio-dataset-2012-2024 
+
+Real-life deployment use cases:
+1] Monitor traffic density within city and vehicular flow at toll plazas, a cheaper alternative to the expensive CCTV camera network.
+2] Identify vehicles using the engine signatures, potentially aiding law enforcement agencies and tracking vehicles amongst traffic.
+3) Aid garage and repair crew in determining faults within engine by comparing vehicle exhaust signatures, reducing time and improving vehicular diagnosis.
+
 
 Stage-I:
 Developed an algorithm capable of analyzing Formula 1 engine audio inputs (.wav files) to predict the driver, classify the team / engine and identify the track from where the input audio has been taken — all based solely on the audio snippet!!
