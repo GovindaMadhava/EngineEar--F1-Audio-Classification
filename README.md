@@ -7,8 +7,11 @@ Dataset Stats:
 Link to Kaggle dataset: https://www.kaggle.com/datasets/govindamadhava/formula1-f1-pure-engine-audio-dataset-2012-2024 
 
 Real-life deployment use cases:
+
 1] Monitor traffic density within city and vehicular flow at toll plazas, a cheaper alternative to the expensive CCTV camera network.
+
 2] Identify vehicles using the engine signatures, potentially aiding law enforcement agencies and tracking vehicles amongst traffic.
+
 3) Aid garage and repair crew in determining faults within engine by comparing vehicle exhaust signatures, reducing time and improving vehicular diagnosis.
 
 
