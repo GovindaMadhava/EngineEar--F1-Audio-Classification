@@ -12,7 +12,7 @@ Real-life deployment use cases:
 
 2] Identify vehicles using the engine signatures, potentially aiding law enforcement agencies and tracking vehicles amongst traffic.
 
-3) Aid garage and repair crew in determining faults within engine by comparing vehicle exhaust signatures, reducing time and improving vehicular diagnosis.
+3] Aid garage and repair crew in determining faults within engine by comparing vehicle exhaust signatures, reducing time and improving vehicular diagnosis.
 
 
 Stage-I:
