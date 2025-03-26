@@ -6,17 +6,9 @@ Dataset Stats:
 
 Link to Kaggle dataset: https://www.kaggle.com/datasets/govindamadhava/formula1-f1-pure-engine-audio-dataset-2012-2024 
 
-Real-life deployment use cases:
+Stage-I: Predicting the team/engine, track and driver from audio.
 
-1] Monitor traffic density within city and vehicular flow at toll plazas, a cheaper alternative to the expensive CCTV camera network.
-
-2] Identify vehicles using the engine signatures, potentially aiding law enforcement agencies and tracking vehicles amongst traffic.
-
-3] Aid garage and repair crew in determining faults within engine by comparing vehicle exhaust signatures, reducing time and improving vehicular diagnosis.
-
-
-Stage-I:
-Developed an algorithm capable of analyzing Formula 1 engine audio inputs (.wav files) to predict the driver, classify the team / engine and identify the track from where the input audio has been taken — all based solely on the audio snippet!!
+Developed Machine Learning + Signal Processing algorithm achieving ~88% accuracy based on engine audio signatures and track specific features.
 
 Here is a demo of the prediction: https://www.youtube.com/playlist?list=PLiK7pWxcARgYFQ7vz39x6qGJntNXrZyN7
 
