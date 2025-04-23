@@ -3,7 +3,7 @@ The first comprehensive audio dataset containing high-quality F1 engine audio fo
 
 Dataset Stats:
 
-25 Tracks | 20 Drivers | 10 Teams | 25,640 Laps | 423 GBs / 615 hours of stereo .wav audio data sampled at 22.050 Hz
+25 Tracks | 23 Drivers | 10 Teams | 25,640 Laps | 423 GBs / 615 hours of stereo .wav audio data sampled at 22.050 Hz
 
 Link to Kaggle dataset:-
 
