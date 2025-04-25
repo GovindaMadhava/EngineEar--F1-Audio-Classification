@@ -1,4 +1,4 @@
-# Formula1-EngineAudio-Classifier
+# EngineEar: Deep Learning Classification of Formula 1 Engine Audio for Team, Driver, and Track Identification
 The first comprehensive audio dataset containing high-quality F1 engine audio for the complete 2024 Formula 1 season.
 
 Dataset Stats:
