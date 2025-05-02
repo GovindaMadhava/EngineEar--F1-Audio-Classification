@@ -31,5 +31,6 @@ How to use the models and predict on an audio of your choice??
 3. Use any .wav audio file or one from the kaggle dataset and update the path to the audio file.
 4. The output will be the top 3 preedictions for the 3 categories + the pitch contour of the input audio file.
 
+Checkout the demo video: https://www.youtube.com/watch?v=lksdT6uWaog
 
 Share your comments, reviews and suggestions: gmbs.madhava001@gmail.com
