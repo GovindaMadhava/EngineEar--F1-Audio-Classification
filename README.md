@@ -3,7 +3,7 @@ The first comprehensive audio dataset containing high-quality F1 engine audio fo
 
 Dataset Stats:
 
-25 Tracks | 23 Drivers | 10 Teams | 25,640 Laps | 423 GBs / 615 hours of stereo .wav audio data sampled at 22.050 Hz
+25 Tracks | 23 Drivers | 10 Teams | 25,640 Laps | 423 GBs / 615 hours of stereo .wav audio recorded at 44.1 kHz sample rate.
 
 Link to Kaggle dataset:-
 
@@ -13,7 +13,7 @@ Formula 1 Grand Prix Engine Audio: https://www.kaggle.com/datasets/govindamadhav
 
 Model:
 
-Developed a Deep Learning pipeline for multi-class classification of Engine exhaust sounds to its corresponding Team/Engine, Track, Driver. 
+Developed a Deep Learning pipeline for multi-class classification of Engine exhaust sounds to its corresponding Team/Engine, Track and Driver. 
 Leveraging a large-scale curated dataset of race audio segmented by lap, the approach extracts Mel-spectrograms, MFCCs and Chroma features to train a CNN-BiLSTM architecture. A novel team-driver awareness function is employed to improve the driver prediction accuracy.
 
 Our best models achieve the following figures:
