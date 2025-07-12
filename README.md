@@ -1,9 +1,9 @@
 # EngineEar: Deep Learning Classification of Formula 1 Engine Audio for Team, Driver, and Track Identification
-The first comprehensive audio dataset containing high-quality F1 engine audio for the complete 2024 Formula 1 season.
+The first comprehensive audio dataset containing high-quality F1 car-wise engine audio + telemetry for the complete 2024 Formula 1 season.
 
 Dataset Stats:
 
-25 Tracks | 23 Drivers | 10 Teams | 25,640 Laps | 423 GBs / 615 hours of stereo .wav audio recorded at 44.1 kHz sample rate.
+24 Tracks | 23 Drivers | 10 Teams | 25,640 Laps | 1100 hours of stereo .wav audio recorded at 48 kHz sample rate.
 
 Link to Kaggle dataset:-
 
